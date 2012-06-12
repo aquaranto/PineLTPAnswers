@@ -1,6 +1,6 @@
 puts "How many bottles of beer do you have?"
 bottles = gets.chomp.to_i
-##Here is a comment again
+
 while bottles >= 1 && bottles < 100
   puts "#{bottles} bottles of beer on the wall,"
   puts "#{bottles} bottles of beer,"
