@@ -31,6 +31,11 @@ Ask the user what their favorite number is. Suggest a number that is bigger and 
 
 **5.2.1AngryBoss.rb**
 
-As the user what they want. Throw them out of your office and fire them!
+Ask the user what they want. Throw them out of your office and fire them!
+
+**5.2.2TableOfContents**
+
+Display a table of contents using .ljust(), .rjust(), and .center(). 
+
 
 	
