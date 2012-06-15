@@ -37,5 +37,19 @@ Ask the user what they want. Throw them out of your office and fire them!
 
 Display a table of contents using .ljust(), .rjust(), and .center(). 
 
+###Chapter 6 : Flow Control
+
+**6.5.1BottleOfBeer**
+
+Write a program that prints out the lyrics 99 Bottle of Beer. My example asks the user for a number and only runs if the number is between 1 and 99.
+
+**6.5.2DeafGrandma**
+
+Whatever you say to grandma needs to be in ALL CAPS. If it isn't ALL CAPS she should ask you to repeat yourself. When it is in ALL CAPS she should pretend that she heard you. 
+
+**6.5.3DeafGrandma2**
+
+Same as the first DeafGrandma with a small twist. When you say 'BYE' she should pretend not to hear you but when said 3 times in a row she should let you leave. REMINDER: if you shout 'BYE', but not three times in a row, you should still be talking to grandma.
+
 
 	
