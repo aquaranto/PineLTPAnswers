@@ -33,21 +33,21 @@ Ask the user what their favorite number is. Suggest a number that is bigger and 
 
 Ask the user what they want. Throw them out of your office and fire them!
 
-**5.2.2TableOfContents**
+**5.2.2TableOfContents.rb**
 
 Display a table of contents using .ljust(), .rjust(), and .center(). 
 
 ###Chapter 6 : Flow Control
 
-**6.5.1BottleOfBeer**
+**6.5.1BottleOfBeer.rb**
 
 Write a program that prints out the lyrics 99 Bottle of Beer. My example asks the user for a number and only runs if the number is between 1 and 99.
 
-**6.5.2DeafGrandma**
+**6.5.2DeafGrandma.rb**
 
 Whatever you say to grandma needs to be in ALL CAPS. If it isn't ALL CAPS she should ask you to repeat yourself. When it is in ALL CAPS she should pretend that she heard you. 
 
-**6.5.3DeafGrandma2**
+**6.5.3DeafGrandma2.rb**
 
 Same as the first DeafGrandma with a small twist. When you say 'BYE' she should pretend not to hear you but when said 3 times in a row she should let you leave. REMINDER: if you shout 'BYE', but not three times in a row, you should still be talking to grandma.
 
