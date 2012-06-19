@@ -15,7 +15,7 @@ end
 #Ask for ending year
 puts "Please select an ending year"
 ending = gets.chomp.to_i
-#If the starting year isn't between 1 and 5000 abort the program with the following message.
+#If the ending year isn't between 1 and 5000 abort the program with the following message.
 #Min value set to 1 to eliminate strings entered (strings converted using .to_i return 0)
 unless ending >= 1 && ending <= 5000
   abort('Please select a number between 0 and 5000')
