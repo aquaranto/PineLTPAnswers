@@ -53,7 +53,8 @@ Same as the first DeafGrandma with a small twist. When you say 'BYE' she should 
 
 **6.5.4LeapYear.rb**
 
-Write a program which will ask for a starting year and an ending year, and then puts all of the leap years between them (and including them, if they are also leap years). Leap Years are those years divisible by 4, those divisible by 100 aren't leap years, but those divisible by 400 are. 
+Write a program which will ask for a starting year and an ending year, and then puts all of the leap years between them (and including them, if they are also leap years). Leap Years are those years 
+divisible by 4, those divisible by 100 aren't leap years, but those divisible by 400 are. 
 
 
 	
