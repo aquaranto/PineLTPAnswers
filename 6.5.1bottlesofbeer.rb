@@ -7,6 +7,7 @@ while bottles >= 1 && bottles < 100
   puts "Take one down, pass it around,"
   bottles -= 1
   puts "#{bottles} of beer on the wall!"
+  puts " "
   
 end
 
