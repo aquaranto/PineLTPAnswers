@@ -16,5 +16,6 @@ end
 
 #return the array to the user, sorted alphabetically
 words.sort.each do |word|
+  
   puts word
 end
