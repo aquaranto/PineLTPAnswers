@@ -27,12 +27,9 @@ puts "..."
 
 
 while ending >= starting 
-#is it divisible by 4, 100, or 400? If is is divisible, %(modulus) returns 0(zero). 
-  dbyfour = starting % 4
-  dbyhund = starting % 100
-  dbyfourhund = starting % 400
-# if it is divisible by 400 OR if it is divisible by 4 AND it's NOT divisible by 100 
-  if dbyfourhund == 0 || dbyfour == 0 && dbyhund !=0  
+#If is is divisible by 4, 100, or 400, %(modulus) returns 0(zero). 
+#If it is divisible by 400 OR if it is divisible by 4 AND it's NOT divisible by 100 
+  if starting % 400 == 0 || starting % 4 == 0 && starting % 100 !=0  
     puts starting    
     result += 1
   end
