@@ -56,5 +56,15 @@ Same as the first DeafGrandma with a small twist. When you say 'BYE' she should 
 Write a program which will ask for a starting year and an ending year, and then puts all of the leap years between them (and including them, if they are also leap years). Leap Years are those years 
 divisible by 4, those divisible by 100 aren't leap years, but those divisible by 400 are. 
 
+###Chapter 7 : Arrays and Iterators
+
+**7.5.1SortedWords.rb**
+
+Write a program which asks us to type in as many words as we want (one word per line, continuing until we just press Enter on an empty line), and which then repeats the words back to us in alphabetical order. Use the .sort method
+
+**7.5.1SortedWordsReboot.rb**
+
+Write the same program as 7.5.1 but without the .sort method. I used the [bubble sort method](http://en.wikipedia.org/wiki/Bubble_sort)
+
 
 	

@@ -17,7 +17,7 @@ end
 while true
 z = 0
 
-#Need to modify the line to make generic
+#Need to modify this line to make generic
 if words [z] < words [z + 1] && words [z + 1] < words[z + 2] && words [z + 2] < words[z + 3] && words [z + 3] < words[z + 4] && words [z + 4] < words[z + 5]
 break
 
