@@ -64,7 +64,7 @@ Write a program which asks us to type in as many words as we want (one word per 
 
 **7.5.1SortedWordsReboot.rb**
 
-Write the same program as 7.5.1 but without the .sort method. I used the [bubble sort method](http://en.wikipedia.org/wiki/Bubble_sort)
+Write the same program as 7.5.1 but without the .sort method. I used the [bubble sort method](http://en.wikipedia.org/wiki/Bubble_sort).
 
 
 	

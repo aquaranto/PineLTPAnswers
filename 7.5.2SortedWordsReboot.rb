@@ -15,10 +15,8 @@ word = gets.chomp
 end
 
 while true
-z = 0
-
 #Need to modify this line to make generic
-if words [z] < words [z + 1] && words [z + 1] < words[z + 2] && words [z + 2] < words[z + 3] && words [z + 3] < words[z + 4] && words [z + 4] < words[z + 5]
+if words [0] < words [1] && words [1] < words[2] && words [2] < words[3] && words [3] < words[4] && words [4] < words[5]
 break
 
 else
@@ -43,6 +41,7 @@ y = 0
   end
 end
 end
+
 #return the array to the user, sorted alphabetically
 words.each do |word|
    puts word
