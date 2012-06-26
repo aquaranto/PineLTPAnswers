@@ -62,9 +62,13 @@ divisible by 4, those divisible by 100 aren't leap years, but those divisible by
 
 Write a program which asks us to type in as many words as we want (one word per line, continuing until we just press Enter on an empty line), and which then repeats the words back to us in alphabetical order. Use the .sort method
 
-**7.5.1SortedWordsReboot.rb**
+**7.5.2SortedWordsReboot.rb**
 
 Write the same program as 7.5.1 but without the .sort method. I used the [bubble sort method](http://en.wikipedia.org/wiki/Bubble_sort).
+
+**7.5.3TableofContentsREVISITED.rb**
+
+Rewrite your table of contents program from chapter 5. Start with an arry holding all of your information.
 
 
 	

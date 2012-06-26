@@ -16,7 +16,7 @@ end
 
 while true
 #Need to modify this line to make generic
-if words [0] < words [1] && words [1] < words[2] && words [2] < words[3] && words [3] < words[4] && words [4] < words[5]
+if words = words.sort
 break
 
 else
