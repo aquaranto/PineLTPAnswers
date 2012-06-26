@@ -68,7 +68,11 @@ Write the same program as 7.5.1 but without the .sort method. I used the [bubble
 
 **7.5.3TableofContentsREVISITED.rb**
 
-Rewrite your table of contents program from chapter 5. Start with an arry holding all of your information.
+Rewrite your table of contents program from chapter 5. Start with an array holding all of your information.
+
+**7.5.4TableofContentsBeccaChallenge.rb**
+
+Using the REVISITED example from above, retrieve the values for the chapter name and page number from the user. Print them in the same way.
 
 
 	
