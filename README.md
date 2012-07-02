@@ -64,6 +64,7 @@ Write a program which asks us to type in as many words as we want (one word per 
 
 **7.5.2SortedWordsReboot.rb**
 
+**THIS EXAMPLE IS INCOMPLETE**
 Write the same program as 7.5.1 but without the .sort method. I used the [bubble sort method](http://en.wikipedia.org/wiki/Bubble_sort).
 
 **7.5.3TableofContentsREVISITED.rb**
@@ -72,7 +73,16 @@ Rewrite your table of contents program from chapter 5. Start with an array holdi
 
 **7.5.4TableofContentsBeccaChallenge.rb**
 
-Using the REVISITED example from above, retrieve the values for the chapter name and page number from the user. Print them in the same way.
+Using the ToC REVISITED example from above, retrieve the values for the chapter name and page number from the user. Print them in the same way.
 
+###Chapter 8 : Writing your own Methods
+
+**8.5.1EnglishNum.rb**
+
+Expand upon the english number example from the online book (trillions, billions, millions, thousands, hundreds, tens, ones)
+
+**8.5.2BottlesREBOOT.rb** 
+
+Take the number method created in 8.5.1EnglishNum and apply it to the bottles of beer example from chapter 6 (Thanks to Andy S. for the code!)
 
 	
